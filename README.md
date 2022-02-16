@@ -5,7 +5,7 @@ Receive issues for wujinjun's items.
 
 提交方法
 
-#必须有GitHub账号！
+# 必须有GitHub账号！
 
 1.点击Issues
 
